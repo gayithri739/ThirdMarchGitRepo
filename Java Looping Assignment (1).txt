@@ -1,0 +1,228 @@
+Write a Java program that prints "VALID" only if a number:
+
+is divisible by 3
+
+NOT divisible by 5
+
+lies between 50 and 200 (inclusive)
+Otherwise print "INVALID"
+➡️ Use only one if statement
+
+2.
+
+Given three integers a, b, and c, print the second largest number using:
+
+Only if–else
+
+
+
+3.
+
+Write a program to check if a year is a leap year but:
+
+
+
+4.
+
+Input an integer and determine whether:
+
+It is positive and divisible by 4
+
+OR negative and divisible by 6
+
+
+5.
+
+Write a program that prints:
+
+"A" if number divisible by 2 and 3
+
+"B" if divisible by 3 and not by 2
+
+"C" if divisible by 2 and not by 3
+
+"D" otherwise
+
+
+🔹 NESTED IF–ELSE (Complex Conditions)
+6.
+
+Given marks in Math, Physics, Chemistry, determine eligibility:
+
+Math ≥ 60
+
+Physics ≥ 50
+
+Chemistry ≥ 40
+AND
+
+Total ≥ 180 OR Math + Physics ≥ 120
+Then print eligible for physics hons
+else
+print not eligible
+
+
+7.
+
+Write a program to find the largest of four numbers using:
+
+Nested if–else only
+
+No loops
+
+No arrays
+
+8.
+
+Given age and salary:
+
+If age < 25 → Not eligible
+
+If age ≥ 25 and salary < 30000 → Eligible for loan A
+
+If age ≥ 30 and salary ≥ 50000 → Eligible for loan B
+➡️ Use deep nested if
+
+9.
+
+Write a program that classifies a character as:
+
+Uppercase vowel
+
+Uppercase consonant
+
+Lowercase vowel
+
+Lowercase consonant
+
+
+10.
+
+Input a number and check:
+
+If it’s a 3-digit number
+
+If yes, check whether the sum of digits is even or odd
+➡️ Use nested if only
+
+🔹 WHILE LOOP (Tricky Iterations)
+11.
+
+Print numbers from 1 to 100 but:
+
+Skip numbers divisible by both 3 and 5
+
+Stop completely when number reaches 77
+➡️ Use while only
+
+12.
+
+Write a program to reverse a number using while, but:
+
+Stop reversing if digit 0 is encountered
+
+13.
+
+Find the count of prime digits in a number using while loop only
+
+14.
+
+Write a program that prints the Fibonacci series up to N terms, but:
+
+Stop printing when a number exceeds 500
+
+15.
+
+Using while, print the following sequence:
+
+1 2 4 7 11 16 22 ...
+
+
+(up to N terms)
+
+🔹 DO–WHILE LOOP (Edge Cases)
+16.
+
+Write a program that:
+
+Takes user input until a negative number is entered
+
+Prints sum of all even numbers entered
+➡️ Use do–while
+
+17.
+
+Using do–while, print digits of a number from left to right
+(No strings, no arrays)
+
+18.
+
+Write a program that executes at least once, even if condition is false, and prints:
+
+Loop Executed
+
+
+➡️ Modify condition logically
+
+19.
+
+Create a menu-driven program using do–while:
+
+Add
+
+Subtract
+
+Multiply
+
+Exit
+
+20.
+
+Using do–while, find whether a number is palindrome, but:
+
+Exit loop early if mismatch is found
+
+🔹 FOR LOOP (Advanced Logic)
+21.
+
+Print all numbers between 1 and 500 that:
+
+Have exactly 3 divisors
+
+22.
+
+Using for, find the largest palindrome number between 100 and 1000
+
+23.
+
+Print this pattern using nested for:
+
+1
+12
+123
+1234
+12345
+
+
+But skip printing 3 in all rows
+
+24.
+
+Using nested for, print:
+
+5 4 3 2 1
+4 3 2 1
+3 2 1
+2 1
+1
+
+
+But do NOT use subtraction operator (-)
+
+25.
+
+Write a program to print all perfect numbers between 1 and 10000 using:
+
+Nested for
+
+if condition only
