@@ -113,7 +113,7 @@ public class StepDefinition extends BaseClass{
     public void user_logs_out_after_account_creation() {
     	logout = new Logout(getDriver());
     	 logout.LogoutLink();
-		System.out.println("user logout";
+		System.out.println("user logout");
     }
 
     @Then("browser is closed")
